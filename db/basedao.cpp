@@ -31,7 +31,7 @@ bool BaseDao::init (){
         if(db_driver=="QMYSQL")
         {
             db=QSqlDatabase::addDatabase("QMYSQL");
-         //  db.setHostName("138.128.200.28");
+
             db.setHostName("localhost");
             db.setDatabaseName("cdoc");
             db.setUserName("klob");
