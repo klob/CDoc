@@ -41,7 +41,7 @@
        }
 2.换肤功能实现参考  [http://www.qtcn.org/bbs/read.php?tid=58060](http://www.qtcn.org/bbs/read.php?tid=58060)
 
-3.采用MVC模式，代码逻辑结构简单，很容易理清
+3.采用MVC模式，代码逻辑结构简单，容易理清，适合新手阅读参考
 
 ###编译配置
 1.QT 版本 Qt5.3 MinGw 32bit   Windows 8.1
