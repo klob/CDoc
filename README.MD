@@ -44,7 +44,10 @@
 3.采用MVC模式，代码逻辑结构简单，容易理清，适合新手阅读参考
 
 ###编译配置
-1.QT 版本 Qt5.3 MinGw 32bit   Windows 8.1
+1. 
+IDE        Qt Creator 3.1.2 (opensource)  Based on Qt 5.3.1 (MSVC 2010, 32 bit)
+Compiler   Qt 5.3 MinGW 32bit
+OS         Windows 8.1
 
 2.可以直接下载，删除CDoc.pro.user，打开CDoc.pro即可编译
 
