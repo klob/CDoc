@@ -50,8 +50,8 @@
 
 
 ## Contact Me
-- [klob#blog       http://klob.diandi.life/](http://klob.diandi.life/)   
-- [klob#gmail.com  kloblic@gmail.com](mailto:kloblic@gmail.com)   
+*	email：kloblic@gmail.com
+*	blog： [klob](http://klob.diandi.life)
 
 ## License
 
