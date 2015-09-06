@@ -45,13 +45,16 @@
 
 ###编译配置
 1. 
+
 IDE        Qt Creator 3.1.2 (opensource)  Based on Qt 5.3.1 (MSVC 2010, 32 bit)
 
 Compiler   Qt 5.3 MinGW 32bit
 
 OS         Windows 8.1
 
-2.可以直接下载，删除CDoc.pro.user，打开CDoc.pro即可编译
+2.
+
+可以直接下载，删除CDoc.pro.user，打开CDoc.pro即可编译
 
 
 ## Contact Me
